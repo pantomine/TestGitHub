@@ -1,2 +1,2 @@
 # TestGitHub
-GitHub Tutorial
+GitHub Tutorial by Prayas Gurung
